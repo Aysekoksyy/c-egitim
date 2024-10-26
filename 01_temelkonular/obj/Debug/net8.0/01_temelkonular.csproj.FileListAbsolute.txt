@@ -1,0 +1,14 @@
+/Users/aysekoksoy/01_temelkonular/01_temelkonular/bin/Debug/net8.0/01_temelkonular
+/Users/aysekoksoy/01_temelkonular/01_temelkonular/bin/Debug/net8.0/01_temelkonular.deps.json
+/Users/aysekoksoy/01_temelkonular/01_temelkonular/bin/Debug/net8.0/01_temelkonular.runtimeconfig.json
+/Users/aysekoksoy/01_temelkonular/01_temelkonular/bin/Debug/net8.0/01_temelkonular.dll
+/Users/aysekoksoy/01_temelkonular/01_temelkonular/bin/Debug/net8.0/01_temelkonular.pdb
+/Users/aysekoksoy/01_temelkonular/01_temelkonular/obj/Debug/net8.0/01_temelkonular.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aysekoksoy/01_temelkonular/01_temelkonular/obj/Debug/net8.0/01_temelkonular.AssemblyInfoInputs.cache
+/Users/aysekoksoy/01_temelkonular/01_temelkonular/obj/Debug/net8.0/01_temelkonular.AssemblyInfo.cs
+/Users/aysekoksoy/01_temelkonular/01_temelkonular/obj/Debug/net8.0/01_temelkonular.csproj.CoreCompileInputs.cache
+/Users/aysekoksoy/01_temelkonular/01_temelkonular/obj/Debug/net8.0/01_temelkonular.dll
+/Users/aysekoksoy/01_temelkonular/01_temelkonular/obj/Debug/net8.0/refint/01_temelkonular.dll
+/Users/aysekoksoy/01_temelkonular/01_temelkonular/obj/Debug/net8.0/01_temelkonular.pdb
+/Users/aysekoksoy/01_temelkonular/01_temelkonular/obj/Debug/net8.0/01_temelkonular.genruntimeconfig.cache
+/Users/aysekoksoy/01_temelkonular/01_temelkonular/obj/Debug/net8.0/ref/01_temelkonular.dll
